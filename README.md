@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Yassir%20Lamaoui&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student&descAlignY=60&descAlign=50" width="100%"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/inng-test" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -15,7 +15,7 @@
   </a>
   <a href="https://www.chess.com/member/glorffindel" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 <br>
 <h2 align="center">
